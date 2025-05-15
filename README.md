@@ -15,8 +15,8 @@ To develop the Online Ticket Reservation System using Star UML tool.
 
 5.Finally, using E-Ticket is a more environmental friendly approach. The main purpose of the online bus ticket system is to provide another way for transnational customers to buy their tickets.
 
-## DEVELOPED BY : STEPHEN RAJ Y
-## REGISTER NO : 212223230217
+## DEVELOPED BY : CHARUMATHI A
+## REGISTER NO : 212224230045
 
 # UML DIAGRAMS:
 
